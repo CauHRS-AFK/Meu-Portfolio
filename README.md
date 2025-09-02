@@ -9,7 +9,7 @@ Este repositório contém o código-fonte do meu portfólio pessoal, uma página
 
 ## Como Visualizar
 
-Você pode visitar a versão online do portfólio [aqui](https://seu-usuario.github.io/seu-repositorio).
+Você pode visitar a versão online do portfólio [aqui](https://github.com/CauHRS-AFK/Meu-Portfolio).
 
 Para executar localmente:
 1. Clone este repositório.
